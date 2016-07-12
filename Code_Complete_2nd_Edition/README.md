@@ -19,7 +19,7 @@ Index
 
 #### [Part 3, 变量（Variables）](https://github.com/zxjsdp/ReadingNotes/blob/master/Code_Complete_2nd_Edition/Part3_Variables/)
 - Chapter 10
-- [Chapter 11: The Power of Variable Names](https://github.com/zxjsdp/ReadingNotes/blob/master/Code_Complete_2nd_Edition/Part3_Variables/Chapter11_ThePowerOfVariableNames.md)
+- [Chapter 11: 变量名的力量（The Power Of Variable Names）](https://github.com/zxjsdp/ReadingNotes/blob/master/Code_Complete_2nd_Edition/Part3_Variables/Chapter11_ThePowerOfVariableNames.md)
 - Chapter 12
 - Chapter 13
 
